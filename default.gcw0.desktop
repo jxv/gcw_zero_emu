@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=GCW Zero Emu
+Comment=THE MIPSEL SIMULATOR
+Exec=gcw_zero_emu
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=icon
+Categories=emulators;
